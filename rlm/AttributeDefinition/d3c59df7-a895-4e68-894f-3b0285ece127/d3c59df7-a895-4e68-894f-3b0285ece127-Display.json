@@ -1,0 +1,40 @@
+{
+  "Category": "PCM",
+  "ExternalParameter": "",
+  "Language": "English",
+  "ObjectName": "AttributeDefinition",
+  "Platform": "RLM",
+  "rlmData": {
+    "Code": "",
+    "CreatedById": "005Ka000003dhbaIAA",
+    "CreatedDate": "2025-04-29T06:57:20.000Z",
+    "DataType": "Picklist",
+    "DefaultHelpText": "",
+    "DefaultValue": "",
+    "Description": "",
+    "DeveloperName": "Display",
+    "GlobalKey__c": "d3c59df7-a895-4e68-894f-3b0285ece127",
+    "Id": "0tjKa000000GuZhIAK",
+    "IsActive": "true",
+    "IsDeleted": "false",
+    "IsRequired": "true",
+    "Label": "Display",
+    "LastModifiedById": "005Ka000003dhbaIAA",
+    "LastModifiedDate": "2025-04-29T06:57:20.000Z",
+    "LastReferencedDate": "2025-12-12T17:31:10.000Z",
+    "LastViewedDate": "2025-12-12T17:31:10.000Z",
+    "Name": "Display",
+    "OwnerId": "005Ka000003dhbaIAA",
+    "Picklist": {
+      "Id": "",
+      "Name": "Display Picklist",
+      "type": "AttributePicklist"
+    },
+    "PicklistId": "0v5Ka000000PJOnIAO",
+    "SourceSystemIdentifier": "",
+    "SystemModstamp": "2025-04-29T06:57:20.000Z",
+    "UnitOfMeasureId": "",
+    "ValueDescription": "",
+    "type": "AttributeDefinition"
+  }
+}

@@ -1,0 +1,33 @@
+{
+  "ExternalParameter": "",
+  "Language": "English",
+  "ObjectName": "AttributeCategoryAttribute",
+  "Platform": "RLM",
+  "rlmData": {
+    "AttributeCategory": {
+      "Id": "",
+      "Name": "Display",
+      "type": "AttributeCategory"
+    },
+    "AttributeCategoryId": "0v3Ka0000008PxRIAU",
+    "AttributeDefinition": {
+      "Id": "",
+      "Name": "Screen Size",
+      "type": "AttributeDefinition"
+    },
+    "AttributeDefinitionId": "0tjKa000000GuZjIAK",
+    "CreatedById": "005Ka000003dhbaIAA",
+    "CreatedDate": "2025-04-29T06:57:20.000Z",
+    "GlobalKey__c": "c12ddfe1-24a8-4897-9517-a86c7beda2ae",
+    "Id": "11EKa0000008PxRMAU",
+    "IsDeleted": "false",
+    "LastModifiedById": "005Ka000003dhbaIAA",
+    "LastModifiedDate": "2025-04-29T06:57:20.000Z",
+    "LastReferencedDate": "",
+    "LastViewedDate": "",
+    "Name": "ACA-0000009",
+    "OwnerId": "005Ka000003dhbaIAA",
+    "SystemModstamp": "2025-04-29T06:57:20.000Z",
+    "type": "AttributeCategoryAttribute"
+  }
+}

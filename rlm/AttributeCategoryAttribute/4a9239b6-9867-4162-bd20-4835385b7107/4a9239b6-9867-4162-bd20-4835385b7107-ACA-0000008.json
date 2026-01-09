@@ -1,0 +1,33 @@
+{
+  "ExternalParameter": "",
+  "Language": "English",
+  "ObjectName": "AttributeCategoryAttribute",
+  "Platform": "RLM",
+  "rlmData": {
+    "AttributeCategory": {
+      "Id": "",
+      "Name": "Display",
+      "type": "AttributeCategory"
+    },
+    "AttributeCategoryId": "0v3Ka0000008PxRIAU",
+    "AttributeDefinition": {
+      "Id": "",
+      "Name": "Display",
+      "type": "AttributeDefinition"
+    },
+    "AttributeDefinitionId": "0tjKa000000GuZhIAK",
+    "CreatedById": "005Ka000003dhbaIAA",
+    "CreatedDate": "2025-04-29T06:57:20.000Z",
+    "GlobalKey__c": "4a9239b6-9867-4162-bd20-4835385b7107",
+    "Id": "11EKa0000008PxQMAU",
+    "IsDeleted": "false",
+    "LastModifiedById": "005Ka000003dhbaIAA",
+    "LastModifiedDate": "2025-04-29T06:57:20.000Z",
+    "LastReferencedDate": "",
+    "LastViewedDate": "",
+    "Name": "ACA-0000008",
+    "OwnerId": "005Ka000003dhbaIAA",
+    "SystemModstamp": "2025-04-29T06:57:20.000Z",
+    "type": "AttributeCategoryAttribute"
+  }
+}
